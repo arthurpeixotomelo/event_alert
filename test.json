@@ -1,0 +1,227 @@
+{
+  "edges": [
+    {
+      "node": {
+        "id": "WyJldmVudHMiLCI5YzlmMjY5ZS03YzRlLTQyZjctODg4Ny1mZDg4NWJjMGQ3NTMiXQ==",
+        "slug": "df9nho",
+        "prettyUrl": "toocon-28-df9nho",
+        "fullUrl": "https://guild.host/events/toocon-28-df9nho",
+        "shortUrl": "https://guild.host/e/df9nho",
+        "name": "TOOCON #28",
+        "description": "[https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-28/](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-toocon-28/)",
+        "startAt": "2025-04-08T11:00:00+00:00",
+        "endAt": "2025-04-08T13:00:00+00:00",
+        "timeZone": "Asia/Taipei",
+        "visibility": "LISTED",
+        "hasVenue": true,
+        "hasExternalUrl": false,
+        "owner": {
+          "__typename": "Guild",
+          "id": "WyJndWlsZHMiLCI5YzBhZWQ0My0wYWEyLTQ1NTAtYWU5MS1kOTQ3M2M3OGJjYWYiXQ==",
+          "name": "Google Developer Groups Kaohsiung ",
+          "__isNode": "Guild"
+        },
+        "uploadedSocialCard": {
+          "url": "https://ik.imagekit.io/guild/prod/e0440117-0067-4052-aa75-bf7998fa8679.png",
+          "id": "WyJpbWFnZXMiLCJlMDQ0MDExNy0wMDY3LTQwNTItYWE3NS1iZjc5OThmYTg2NzkiXQ=="
+        },
+        "generatedSocialCardURL": "https://guild.host/social/event/toocon-28-df9nho/card.svg",
+        "presentations": {
+          "edges": []
+        },
+        "venue": {
+          "address": {
+            "location": {
+              "__typename": "GeometryPoint",
+              "geojson": {
+                "type": "Point",
+                "coordinates": [
+                  120.3001305,
+                  22.6116938
+                ]
+              }
+            },
+            "id": "WyJhZGRyZXNzZXMiLCI0NWIwYjI1MC1kNGEyLTRkYTktOTU1MS04NDUyZDU4ZTc3OGQiXQ=="
+          },
+          "id": "WyJ2ZW51ZXMiLCJlYTkxYjk1Zi04YjMxLTQzNzMtODgwNS1kOTIxOGYxNGUxNDAiXQ=="
+        },
+        "createdAt": "2025-03-23T17:34:41.487289",
+        "updatedAt": "2025-03-23T17:38:15.92589"
+      },
+      "cursor": "WyJuYXR1cmFsIiwxXQ=="
+    },
+    {
+      "node": {
+        "id": "WyJldmVudHMiLCI0MjZmYjA3NC0zMjBjLTQ2OGEtYjcwNy1jNjdjNjY1OWQyNjUiXQ==",
+        "slug": "kmxwptyhcgblb",
+        "prettyUrl": "clube-do-livro-clojure-kmxwptyhcgblb",
+        "fullUrl": "https://guild.host/events/clube-do-livro-clojure-kmxwptyhcgblb",
+        "shortUrl": "https://guild.host/e/kmxwptyhcgblb",
+        "name": "Clube do Livro (Clojure Brain Teasers)",
+        "description": "O livro é bastante prático, então compartihamos o livro, vamos lendo e fazendo juntos! Discutindo os conceitos, pesquisando mais para aprender...\n\nSó vem, no Discord da Clojure BR",
+        "startAt": "2025-04-08T12:00:00+00:00",
+        "endAt": "2025-04-08T13:00:00+00:00",
+        "timeZone": "America/Sao_Paulo",
+        "visibility": "LISTED",
+        "hasVenue": false,
+        "hasExternalUrl": true,
+        "owner": {
+          "__typename": "Guild",
+          "id": "WyJndWlsZHMiLCJkYWYyMGI1Mi1iODVkLTQyZTItODJiYy00OTAzNDY5YmE3MTkiXQ==",
+          "name": "Clojure BR",
+          "__isNode": "Guild"
+        },
+        "uploadedSocialCard": null,
+        "generatedSocialCardURL": "https://guild.host/social/event/clube-do-livro-clojure-kmxwptyhcgblb/card.svg",
+        "presentations": {
+          "edges": []
+        },
+        "venue": null,
+        "createdAt": "2025-02-07T12:42:13.697348",
+        "updatedAt": null
+      },
+      "cursor": "WyJuYXR1cmFsIiwyXQ=="
+    },
+    {
+      "node": {
+        "id": "WyJldmVudHMiLCIxZTE4ZDQxZC01MjUzLTQ3YjMtOWU2YS04N2M5NTMzMjViMjAiXQ==",
+        "slug": "78ymtc",
+        "prettyUrl": "guidance-counselor-20-78ymtc",
+        "fullUrl": "https://guild.host/events/guidance-counselor-20-78ymtc",
+        "shortUrl": "https://guild.host/e/78ymtc",
+        "name": "Guidance Counselor 2.0 with Angie Jones",
+        "description": "the 'soft skills' podcast of the software engineering industry focused on hiring and job search tips. with guest angie jones, global vp of developer relations at block",
+        "startAt": "2025-04-08T14:30:00+00:00",
+        "endAt": "2025-04-08T15:00:00+00:00",
+        "timeZone": "Etc/GMT+5",
+        "visibility": "LISTED",
+        "hasVenue": false,
+        "hasExternalUrl": true,
+        "owner": {
+          "__typename": "Guild",
+          "id": "WyJndWlsZHMiLCI1NjBjN2Y5Yi04NWNiLTQwZjYtYmIzOS1mZmMzZGQ1N2NhYjgiXQ==",
+          "name": "Community Team Podcasts",
+          "__isNode": "Guild"
+        },
+        "uploadedSocialCard": {
+          "url": "https://ik.imagekit.io/guild/prod/8bc263c9-da3a-4b40-a33f-24c48bf454e0.png",
+          "id": "WyJpbWFnZXMiLCI4YmMyNjNjOS1kYTNhLTRiNDAtYTMzZi0yNGM0OGJmNDU0ZTAiXQ=="
+        },
+        "generatedSocialCardURL": "https://guild.host/social/event/guidance-counselor-20-78ymtc/card.svg",
+        "presentations": {
+          "edges": []
+        },
+        "venue": null,
+        "createdAt": "2025-04-03T13:44:55.094981",
+        "updatedAt": "2025-04-07T13:55:22.073074"
+      },
+      "cursor": "WyJuYXR1cmFsIiwzXQ=="
+    },
+    {
+      "node": {
+        "id": "WyJldmVudHMiLCJhNmJhYjcxNy0yNGMzLTQ5NWYtOWZkOS0xMGQ4YjQwODA0ODMiXQ==",
+        "slug": "4e1eah",
+        "prettyUrl": "the-friction-fix-with-4e1eah",
+        "fullUrl": "https://guild.host/events/the-friction-fix-with-4e1eah",
+        "shortUrl": "https://guild.host/e/4e1eah",
+        "name": "The Friction Fix with Diana Montalion and Cat Morris",
+        "description": "**REGISTRATION NOW CLOSED as we need to provide notice of our guests to our host - see those of you have already registered at the event!**\n\nWe are pleased to welcome Cat Morris and Diana Montalion for **The Friction Fix: Building Collaborative Relationships Between Teams**\n\nA big thanks to [Policy Expert](https://www.policyexpert.co.uk/) for hosting the event. Also thank you to [The Ministry of Software Design](https://ministryofsoftwaredesign.com) for organising.\n\n**Abstract**\nIn today's fast-paced and interconnected world, the friction between product and technology teams often feels inevitable. Misaligned mindsets, priorities, and contextual biases create obstacles that slow progress, stifle innovation, breed frustration and encourage blame.\n\nInstead of fostering collaboration, we resort to tighter controls and increased separation, widening the gap even further. However, effective collaboration is crucial for delivering impactful results and driving success.\n\nDiana Montalion (systems architect) and Cat Morris (product manager) will examine the distinct yet interconnected concerns of product and architecture, unraveling why friction arises and how it can be mitigated. Drawing from 30+ years of combined real-world experience, they will show how the flow of data and information—when presented in the right way and context—can bridge gaps and generate shared knowledge.\n\nAttendees will gain practical strategies for designing systems and processes that enable knowledge flow. Empowering teams to make informed decisions and deliver impactful outcomes. Together.\n\n**About Cat Morris (Staff Product Manager at Syntasso)**\nCat is the Product Manager at Syntasso delivering Kratix, an open-source cloud-native framework for building internal platforms. She has worked in tech for over 10 years, the last 6 have been in Platform Engineering across all kinds of domains. She specialises in bringing Product Mindset to technical teams that serve developers and other internal users - their user experience matters too!\n\nAway from her work endeavours, Cat is an avid plant enthusiast with dozens of houseplants. She also shares her home with Opal, her equally adored and occasionally demanding feline companion.\n\n**About Diana Montalion (Mentrix: Architecting Systems)**\nDiana and her teammates build modern software systems for diverse clients. She has 20+ years experience engineering and architecting software systems for organizations including Stanford, The Gates Foundation, Memorial Sloan Kettering and Teach For All. She has also served as Principal Systems Architect for The Economist and The Wikimedia Foundation.\n\nShe wrote the O’Reilly book, Learning Systems Thinking: Essential Nonlinear Skills & Practices for Software Professionals. Her company, Mentrix, publishes courses and learning materials for aspiring nonlinear thinkers.\n\nDiana lives in the Hudson Valley (New York, USA) with three dogs, one cat and nine chickens.",
+        "startAt": "2025-04-08T17:00:00+00:00",
+        "endAt": "2025-04-08T19:00:00+00:00",
+        "timeZone": "Europe/London",
+        "visibility": "LISTED",
+        "hasVenue": true,
+        "hasExternalUrl": false,
+        "owner": {
+          "__typename": "Guild",
+          "id": "WyJndWlsZHMiLCI4ZjQ0NTllMC1iYmNhLTQ5YTMtOGM0Mi02MWEyY2ZjMDNhZjEiXQ==",
+          "name": "DDD London: Software Design UK",
+          "__isNode": "Guild"
+        },
+        "uploadedSocialCard": {
+          "url": "https://ik.imagekit.io/guild/prod/2fac6ad0-ee64-4831-b5c5-e00783328f61.png",
+          "id": "WyJpbWFnZXMiLCIyZmFjNmFkMC1lZTY0LTQ4MzEtYjVjNS1lMDA3ODMzMjhmNjEiXQ=="
+        },
+        "generatedSocialCardURL": "https://guild.host/social/event/the-friction-fix-with-4e1eah/card.svg",
+        "presentations": {
+          "edges": []
+        },
+        "venue": {
+          "address": {
+            "location": {
+              "__typename": "GeometryPoint",
+              "geojson": {
+                "type": "Point",
+                "coordinates": [
+                  -0.0811111,
+                  51.5162398
+                ]
+              }
+            },
+            "id": "WyJhZGRyZXNzZXMiLCJkMTMxYzhhNS00NDRkLTRlZDEtYmZmYS0zYzg5NTI3MmU5YTUiXQ=="
+          },
+          "id": "WyJ2ZW51ZXMiLCIyMDM0YjNjOC0yMTFlLTRhZmMtYjJiZS0xYWYzZTY5YmU2MTAiXQ=="
+        },
+        "createdAt": "2025-02-21T10:35:38.328917",
+        "updatedAt": "2025-04-03T15:49:08.028358"
+      },
+      "cursor": "WyJuYXR1cmFsIiw0XQ=="
+    },
+    {
+      "node": {
+        "id": "WyJldmVudHMiLCJjNzE0YzM3NS1lY2Q3LTQ0YzItYWY1ZC0yNDFiYjI0MDU3OWIiXQ==",
+        "slug": "tiu84j",
+        "prettyUrl": "civic-hacknight-488-tiu84j",
+        "fullUrl": "https://guild.host/events/civic-hacknight-488-tiu84j",
+        "shortUrl": "https://guild.host/e/tiu84j",
+        "name": "Civic Hacknight #488: PoliDashboard — Making the Invisible Visible",
+        "description": "**Topic**: Making the Invisible Visible: Tracking and Visualizing Political Advertising on Meta Platforms with [PoliDashboard.org](https://polidashboard.org)\n\nDiscover how political advertisers in Canada are chasing your clicks on Facebook and Instagram — and how paid political ads can be weaponized to mislead, manipulate, or interfere in an election.\n\n**Speaker**: Philip Mai\n\nPhilip is a Senior Researcher and Co-Director at the [Social Media Lab](https://socialmedialab.ca/), Ted Rogers School of Management, Toronto Metropolitan University. His work focuses on social media use and misuse —covering disinformation, deepfakes, foreign interference, conspiracy theories, online toxicity, and digital political transparency. He also develops research tools and dashboards for students and scholars to study public discourse and online participation.\n\n***April theme: electoral interference and online disinformation***\n\n*With a federal election coming up on April 28th, we've dedicated four weeks to featuring Toronto-based presenters who research and build tools to fight election interference and online disinformation. Check the complete list of[ upcoming events.](https://guild.host/civic-tech-toronto/events)*\n\n**Entry Note:**\n\nPlease note, in-person attendees will need to go through a metal detector, and have their bags searched. Sharp tools or knives will not be permitted.\n\n**Agenda**:\n\n7:00-7:20  Welcome and Introductions\n\n7:20-7:50  Presentation and Q&A/discussion\n\n7:50-9:00  Breakout groups\n\n**Code of Conduct:**\n\n[https://civictech.ca/about-us](https://civictech.ca/about-us)\n\nCheck in with us on the **Civic Tech Toronto Slack**:\n\n[https://link.civictech.ca/chat](https://link.civictech.ca/chat)\n\n**About Us:**\n\nOur weekly civic tech hacknights bring together Torontonians (designers, coders, urban planners, government staff, mappers, policy-makers, students, communications strategists, community organizers, and more) who share an interest in making Toronto more responsive, prosperous, sustainable, and equitable through design, tech, and data.\n\nCome and be part of it!\n\n**For more info:**\n\n[https://civictech.ca](https://civictech.ca/)",
+        "startAt": "2025-04-08T23:00:00+00:00",
+        "endAt": "2025-04-09T01:00:00+00:00",
+        "timeZone": "America/Toronto",
+        "visibility": "LISTED",
+        "hasVenue": true,
+        "hasExternalUrl": true,
+        "owner": {
+          "__typename": "Guild",
+          "id": "WyJndWlsZHMiLCI0OTczNDJlYS01Y2VjLTQ0YjItYjM0MS03ZmEyZWMzYjgxZDMiXQ==",
+          "name": "Civic Tech Toronto",
+          "__isNode": "Guild"
+        },
+        "uploadedSocialCard": {
+          "url": "https://ik.imagekit.io/guild/prod/d1e576d2-490c-4cb7-a63e-1644cdeef190.png",
+          "id": "WyJpbWFnZXMiLCJkMWU1NzZkMi00OTBjLTRjYjctYTYzZS0xNjQ0Y2RlZWYxOTAiXQ=="
+        },
+        "generatedSocialCardURL": "https://guild.host/social/event/civic-hacknight-488-tiu84j/card.svg",
+        "presentations": {
+          "edges": []
+        },
+        "venue": {
+          "address": {
+            "location": {
+              "__typename": "GeometryPoint",
+              "geojson": {
+                "type": "Point",
+                "coordinates": [
+                  -79.3840901,
+                  43.6534399
+                ]
+              }
+            },
+            "id": "WyJhZGRyZXNzZXMiLCJkYzA0NGVmZi1lOWM5LTRkYzItOTYwOC0xZWViODA5Y2MzNzkiXQ=="
+          },
+          "id": "WyJ2ZW51ZXMiLCIzM2Q0ZjNkNi0zZWQyLTQyNjgtYWI3Zi1lOTFiYTI5NjgzZGEiXQ=="
+        },
+        "createdAt": "2025-03-20T14:15:29.523456",
+        "updatedAt": "2025-03-31T14:59:11.309559"
+      },
+      "cursor": "WyJuYXR1cmFsIiw1XQ=="
+    }
+  ],
+  "pageInfo": {
+    "hasPreviousPage": false,
+    "hasNextPage": true,
+    "startCursor": "WyJuYXR1cmFsIiwxXQ==",
+    "endCursor": "WyJuYXR1cmFsIiw1XQ=="
+  }
+}
